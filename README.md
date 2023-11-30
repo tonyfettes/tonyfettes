@@ -14,4 +14,4 @@
 
 - Various PL ideas @ [Lambda Cube](https://github.com/tonyfettes/lambda_cube)
 - Asynchrous POSIX shell @ [nsh](https://github.com/tonyfettes/nsh)
-- RISC-V pipeline @ [https://github.com/tonyfettes/riscv-poc]
+- RISC-V pipeline @ [My RISC-V POC](https://github.com/tonyfettes/riscv-poc)
